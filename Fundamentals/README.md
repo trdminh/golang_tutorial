@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Fundametals
 
 ## Variables

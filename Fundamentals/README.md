@@ -25,5 +25,4 @@ The type of variables
 | `\"`      | U+0022  | Double quote (only in string literals)|
 
 =======
-# golang_tutorial
->>>>>>> 232228a4a62c04f9fd6bcc2ebee4b954cbcc7ba2
+
